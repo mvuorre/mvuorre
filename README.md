@@ -8,5 +8,5 @@
 - 🧑‍🏫 I sometimes write about statistics, data science, and psychology at [Sometimes I R](https://sometimesir.com)
 - 📫 Get in touch via [email](matti.vuorre@oii.ox.ac.uk) or [Twitter](https://twitter.com/vuorre)
 - 🌱 You can find my professional and personal code projects on [GitHub](https://github.com/mvuorre?tab=repositories)
-- 💾 My website is at <https://vuorre.netlify.app>
-- 🧑‍🔬 If you’d like my help with something, you can book a [one-on-one meeting with me](https://book.stripe.com/aEU8wG5vkaKK5J6bIK).
+- 💾 My personal website is at <https://vuorre.netlify.app>
+- 🧑‍🔬 If you’d like my help with something, you can book a [one-on-one meeting with me](https://book.stripe.com/aEU8wG5vkaKK5J6bIK)
