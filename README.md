@@ -6,7 +6,7 @@
 
 🧑‍🎓 I research well-being in digital environments (see our [research group](https://github.com/digital-wellbeing))
 
-📜 Read more about my work in my [CV]((https://raw.githubusercontent.com/mvuorre/CV/main/vuorre-matti.pdf)), [GScholar](https://scholar.google.com/citations?hl=en&user=I4DSy-8AAAAJ&view_op=list_works&sortby=pubdate), and [Zotero](https://www.zotero.org/vuorre) pages
+📜 Read more about my work in my [CV](https://raw.githubusercontent.com/mvuorre/CV/main/vuorre-matti.pdf) ([🧛‍♂️](https://raw.githubusercontent.com/mvuorre/CV/dracula/vuorre-matti.pdf)), [GScholar](https://scholar.google.com/citations?hl=en&user=I4DSy-8AAAAJ&view_op=list_works&sortby=pubdate), and [Zotero](https://www.zotero.org/vuorre) pages
 
 🧑‍🏫 I sometimes blog about statistics, data science, and psychology at [Sometimes I R](https://sometimesir.com)
 
