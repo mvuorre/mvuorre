@@ -2,7 +2,7 @@
 
 >@ Internet. Here to stay.
 
-🔭 I'm an assistant professor at [Tilburg University]([https://www.oii.ox.ac.uk/people/profiles/matti-vuorre/](https://research.tilburguniversity.edu/en/persons/matti-vuorre))
+🔭 I'm an assistant professor at [Tilburg University](https://research.tilburguniversity.edu/en/persons/matti-vuorre)
 
 🧑‍🎓 I research well-being in digital environments (see our [research group](https://github.com/digital-wellbeing))
 
