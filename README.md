@@ -10,7 +10,7 @@
 
 🧑‍🏫 I sometimes [blog](https://vuorre.netlify.app) about statistics, data science, and psychology
 
-📫 Get in touch via [email](mailto:m.j.vuorre@tilburguniversity.edu) or [Twitter](https://twitter.com/vuorre)
+📫 Get in touch via [email](mailto:m.j.vuorre@tilburguniversity.edu)
 
 🌱 You can find my professional and personal code projects on [GitHub](https://github.com/mvuorre?tab=repositories)
 
